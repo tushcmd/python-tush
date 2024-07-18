@@ -1,6 +1,6 @@
 # Example of a custom module to be imported
 
-import re
+import re # regular expressions - it is a core module
 
 
 def validate_email(email):
